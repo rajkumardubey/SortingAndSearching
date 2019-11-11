@@ -12,7 +12,6 @@
 *Most quick sort implementations are not stable, though stable implementations do exist.
 
 
-<img src="https://giphy.com/embed/xpySy9v6mSxX2" width="960">
-<img src="https://giphy.com/gifs/interesting-algorithms-visualised-xpySy9v6mSxX2" width="960">
+## Visual Representations
 
-<iframe src="https://giphy.com/embed/xpySy9v6mSxX2" width="480" height="243" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/interesting-algorithms-visualised-xpySy9v6mSxX2">via GIPHY</a></p>
+![](https://media.giphy.com/media/xpySy9v6mSxX2/giphy.gif)
